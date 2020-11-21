@@ -11,4 +11,10 @@ html, body {
 .img-banner {
     border-radius: 6px;
     box-shadow: 6px 6px 6px #888;
+    display: block;
+    margin: 0 auto;
+}
+
+h1.title-h1 {
+    padding: 10px 30px;
 }
