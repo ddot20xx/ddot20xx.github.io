@@ -17,4 +17,5 @@ html, body {
 
 h1.title-h1 {
     padding: 10px 30px;
+    border-bottom: 1px solid lightgrey;
 }
